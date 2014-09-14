@@ -1,0 +1,78 @@
+body{
+	background-image: url(imagenes/fondo.png);
+}
+.rectangulo{
+	position        : relative;
+	border          : 1px solid black;
+	width           : 500px;
+	height          : 50px;
+	left: 32%;
+	border-radius: 20px;
+	background-image: url(imagenes/fondoCirculo.png);
+	
+}
+.circulo{
+	position        : absolute;
+	width           : 150px;
+	height          : 150px;
+	border          : 1px solid black;
+	border-radius   : 100%;
+	background-image: url(imagenes/fondoCirculo.png);
+	}
+
+#espera{
+	background-image:;
+}
+
+#circulo1{
+	top: 30%;
+	left: 2%;
+	background-image: ;
+
+}
+#circulo2{
+	top: 30%;
+	left: 87%;
+	background-image: ;
+
+}
+#juego{
+	top: 15%;
+	left: 32%;
+	width: 500px;
+	height: 500px;
+
+}
+.circuloInterno{
+	position        : relative;
+	width           : 150px;
+	height          : 150px;
+	border          : 1px solid black;
+	border-radius   : 100%;
+
+}
+#circulo3{
+	left: 35%;
+	background-image:url(imagenes/piedra.gif);
+}
+#circulo4{
+	left: 65%;
+	background-image:url(imagenes/papel.gif);
+}
+#circulo5{
+	bottom: 30%;
+	left: 5%;
+	background-image:url(imagenes/tijera.gif);
+}
+#circulo6{
+	bottom: 30%;
+	left: 19%;
+	background-image:url(imagenes/lagarto.gif);
+}
+#circulo7{
+	bottom: 60%;
+	left: 51%;
+	background-image:url(imagenes/spock.gif);
+
+}
+
